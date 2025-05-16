@@ -3,7 +3,7 @@ app:
   name: go-todo-app-1
   image:
     repository: docker.io/sssurana90/go-todo-app-1
-    tag: sha-fc3081b
+    tag: sha-6e2dbfa
     pullPolicy: IfNotPresent
   imagePullSecrets:
     - name: regcred1
